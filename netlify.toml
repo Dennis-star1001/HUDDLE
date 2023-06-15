@@ -1,8 +1,0 @@
-[build]
-  command = ""
-  publish = ""
-  
-[[redirects]]
-  from = "/*"
-  to = "/huddle.html"
-  status = 200
